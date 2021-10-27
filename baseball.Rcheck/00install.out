@@ -1,0 +1,23 @@
+* installing *source* package 'baseball' ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** byte-compile and prepare package for lazy loading
+Warning message:
+package 'ggplot2' was built under R version 4.1.1 
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+*** arch - i386
+Warning: package 'ggplot2' was built under R version 4.1.1
+*** arch - x64
+Warning: package 'ggplot2' was built under R version 4.1.1
+** testing if installed package can be loaded from final location
+*** arch - i386
+Warning: package 'ggplot2' was built under R version 4.1.1
+*** arch - x64
+Warning: package 'ggplot2' was built under R version 4.1.1
+** testing if installed package keeps a record of temporary installation path
+* DONE (baseball)

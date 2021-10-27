@@ -25,5 +25,5 @@
 #'   \item{\code{SF}}{integer Number of sacrifice flies the player had for the team that season}
 #'   \item{\code{GIDP}}{integer Number of times the player grounded out into a double play for the team that season}
 #'}
-#' @details DETAILS
+#' @details This is a comprehensive list of all outcomes, with the exception of a fielders choice or error. It has teams dating back to the 1870s and all hitting players to play for those teams
 "hitting"
