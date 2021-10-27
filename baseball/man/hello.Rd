@@ -7,7 +7,7 @@
 hello()
 }
 \value{
-A statment saying hello to comething
+A statement saying hello to something
 }
 \description{
 A function to say hello
